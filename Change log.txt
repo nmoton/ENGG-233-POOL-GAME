@@ -1,0 +1,14 @@
+Change Log
+==========
+V_3.0 - Added multiple balls. Balls do not move, only visually on table.
+V_3.1 - Coloured the balls. Simplified draw_ball(), and process for colouring balls.
+V_3.2 - Added a functioning pool stick with data stored in class Stick.
+V_3.3 - Added a physics engine for other balls to move.
+V_3.4 - Added barriers for mulitple balls, and cleaned up code.
+V_3.5 - 3.10 - Cleaning Redudant Code
+V_3.11 - Added a scoring option.
+V_3.12 - Removed scoring due to error.
+V_3.13 - Added a background.
+V_3.14 - Added custom win/loss screens.
+V_3.15 - Added more sounds.
+V_3.16 - 3.18 - Cleaning redundant code. Added a timer, and score.
